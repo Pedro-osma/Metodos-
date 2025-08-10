@@ -10,8 +10,6 @@ Original file is located at
 import sympy as sp
 from sympy import *
 
-from sympy import Matrix
-
 a = Matrix([0, 0])
 b = Matrix([4, 0])
 c = Matrix([0, 1])
